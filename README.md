@@ -1,16 +1,16 @@
-## Hi there 👋
+# Super Lede
 
-<!--
-**supertj/supertj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on [MonetizationKit](https://monetizationkit.com/), a free checker that looks at public signals to estimate whether a YouTube channel is monetized. I also keep an open dataset on [how often the channels we sampled in each country show those signals](https://github.com/supertj/youtube-monetization-by-country).
 
-Here are some ideas to get you started:
+## MonetizationKit elsewhere
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [PeerPush](https://peerpush.com/p/monetizationkit)
+- [productwatch](https://productwatch.io/products/monetizationkit)
+- [StackShare](https://stackshare.io/monetizationkit)
+- [Whop](https://whop.com/monetizationkit/)
+- [YT.Careers](https://yt.careers/businesses/673)
+- [Linktree](https://linktr.ee/youtubemonetizationchecker)
+
+## Find me
+
+- [Qwoted](https://app.qwoted.com/sources/super-lede)
